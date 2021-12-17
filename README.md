@@ -1,8 +1,29 @@
 What this mod does:
 Adds vehicles to Conquest Maps
 
+V1.1:
+Added more vehicles to Grand Bazaar CQS/CQL
+
+US
++ M1 ABRAMS
++ Stryker
+
+RU
++ T-90
++ Sprut-SD
+
+Added more vehicles to Teheran Highway CQS/CQL
+
+US
++ HIMARS
++ Stryker
+
+RU
++ STAR-1466
++ Sprut-SD
+
 V1.0:
-Added more vehicles to Operation Firestorm CQS/CQL with optional bot-support
+Added more vehicles to Operation Firestorm CQS/CQL with optional bot-support*
 
 US
 + A-10
