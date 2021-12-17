@@ -1,0 +1,13 @@
+{
+	"Name": "CQ-MoreVehicles",
+	"Authors": ["KrazyIvan777"],
+	"Description": "adds vehicles to conquest maps",
+	"URL": "",
+	"Version": "1.0.0",
+	"HasWebUI": false,
+	"HasVeniceEXT": true,
+	"Tags": ["cq-morevehicles"],
+	"Dependencies": {
+		"veniceext": "^1.0.0"
+	}
+}
