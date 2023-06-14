@@ -1,6 +1,26 @@
 What this mod does:
 Adds vehicles to Conquest Maps
 
+V1.2: Added more vehicles to Nebandan Flats CQS/CQL
+
+US
+
++A10
++F35b
++Amtrac
++Stryker
++HIMARS
++LAV AD
++Littlebird
+
+RU
+
++SU25
++Sprut-SD
++STAR 1466
++Tunguska
++Z-11w
+
 V1.1:
 Added more vehicles to Grand Bazaar CQS/CQL
 
