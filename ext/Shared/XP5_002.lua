@@ -53,7 +53,7 @@ CONFIG['XP5_002'] = {
 				Blueprint = "Vehicles/AH6/AH6_Littlebird",
 				InitialSpawnDelay = 0,
 				RespawnDelay = 30,
-				Transform = LinearTransform(Vec3(0.797556, -0.069530, -0.599225), Vec3(0.024536, 0.996252, -0.082941), Vec3(0.602746, 0.051448, 0.796273), Vec3(-2195.232666, 62.991570, -514.917053))
+				Transform = LinearTransform(Vec3(0.836169, -0.113161, -0.536672), Vec3(0.054048, 0.990723, -0.124690), Vec3(0.545803, 0.075256, 0.834527), Vec3(-2205.606934, 63.147243, -514.535522))
 			},{
 				Blueprint = "Vehicles/XP3/M1128-Stryker/M1128-Stryker",
 				InitialSpawnDelay = 0,
@@ -151,7 +151,7 @@ CONFIG['XP5_002'] = {
 				Blueprint = "Vehicles/AH6/AH6_Littlebird",
 				InitialSpawnDelay = 0,
 				RespawnDelay = 30,
-				Transform = LinearTransform(Vec3(0.797556, -0.069530, -0.599225), Vec3(0.024536, 0.996252, -0.082941), Vec3(0.602746, 0.051448, 0.796273), Vec3(-2195.232666, 62.991570, -514.917053))
+				Transform = LinearTransform(Vec3(0.836169, -0.113161, -0.536672), Vec3(0.054048, 0.990723, -0.124690), Vec3(0.545803, 0.075256, 0.834527), Vec3(-2205.606934, 63.147243, -514.535522))
 			},{
 				Blueprint = "Vehicles/XP3/M1128-Stryker/M1128-Stryker",
 				InitialSpawnDelay = 0,
